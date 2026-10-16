@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\vanga9516\Downloads\Pipeline\build\_deps\googletest-subbuild\CMakeFiles\f262f005f2820cec3148bed993bd0302\googletest-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vanga9516\Downloads\Pipeline\build\_deps\googletest-subbuild\CMakeFiles\f262f005f2820cec3148bed993bd0302\googletest-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vanga9516\Downloads\Pipeline\build\_deps\googletest-subbuild\CMakeFiles\f262f005f2820cec3148bed993bd0302\googletest-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vanga9516\Downloads\Pipeline\build\_deps\googletest-subbuild\CMakeFiles\f262f005f2820cec3148bed993bd0302\googletest-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vanga9516\Downloads\Pipeline\build\_deps\googletest-subbuild\CMakeFiles\f262f005f2820cec3148bed993bd0302\googletest-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vanga9516\Downloads\Pipeline\build\_deps\googletest-subbuild\CMakeFiles\f262f005f2820cec3148bed993bd0302\googletest-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vanga9516\Downloads\Pipeline\build\_deps\googletest-subbuild\CMakeFiles\f262f005f2820cec3148bed993bd0302\googletest-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vanga9516\Downloads\Pipeline\build\_deps\googletest-subbuild\CMakeFiles\f262f005f2820cec3148bed993bd0302\googletest-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vanga9516\Downloads\Pipeline\build\_deps\googletest-subbuild\CMakeFiles\d79476b827d841f5e7199feb08cd4aff\googletest-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vanga9516\Downloads\Pipeline\build\_deps\googletest-subbuild\CMakeFiles\89432061f557229efbc03d86bd6b4b52\googletest-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vanga9516\Downloads\Pipeline\build\_deps\googletest-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\vanga9516\Downloads\Pipeline\build\_deps\googletest-subbuild\CMakeFiles\googletest-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5127533E-705C-31AE-BC98-A8169378C8D0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

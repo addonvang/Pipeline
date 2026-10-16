@@ -1,0 +1,3 @@
+C:/Users/vanga9516/Downloads/Pipeline/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/Users/vanga9516/Downloads/Pipeline/build/_deps/googletest-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/vanga9516/Downloads/Pipeline/build/_deps/googletest-subbuild/CMakeFiles/ZERO_CHECK.dir

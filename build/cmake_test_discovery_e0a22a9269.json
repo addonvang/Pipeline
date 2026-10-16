@@ -1,0 +1,27 @@
+{
+  "tests": 3,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "CalculatorTest",
+      "tests": 3,
+      "testsuite": [
+        {
+          "name": "HandlesAddition",
+          "file": "C:\\Users\\vanga9516\\Downloads\\Pipeline\\calculatorTest.cpp",
+          "line": 4
+        },
+        {
+          "name": "HandlesMultiplication",
+          "file": "C:\\Users\\vanga9516\\Downloads\\Pipeline\\calculatorTest.cpp",
+          "line": 10
+        },
+        {
+          "name": "HandlesDivision",
+          "file": "C:\\Users\\vanga9516\\Downloads\\Pipeline\\calculatorTest.cpp",
+          "line": 16
+        }
+      ]
+    }
+  ]
+}

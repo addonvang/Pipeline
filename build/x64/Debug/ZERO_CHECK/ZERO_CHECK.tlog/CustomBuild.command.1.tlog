@@ -1,0 +1,10 @@
+^C:\USERS\VANGA9516\DOWNLOADS\PIPELINE\BUILD\CMAKEFILES\56C8C63045FAC3787F7B0376023A99AA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/vanga9516/Downloads/Pipeline -BC:/Users/vanga9516/Downloads/Pipeline/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/vanga9516/Downloads/Pipeline/build/CalculatorLab.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
