@@ -1,8 +1,0 @@
-================================================================================
-Linker Errors
-Generated: 2026-10-16T20:58:06.072Z
-Total Errors: 1
-================================================================================
-
-[LNK1104] (MSVC)
-cannot open file 'C:\Users\vanga9516\Downloads\Pipeline\build\lib\Debug\gtest.lib' [C:\Users\vanga9516\Downloads\Pipeline\build\_deps\googletest-build\googletest\gtest.vcxproj]
